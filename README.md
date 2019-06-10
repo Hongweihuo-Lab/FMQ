@@ -15,7 +15,7 @@ sequences, with the former used to construct compression index. Besides enabling
 #### 1. Index construction 
    run the shell command: "./FMQ geomone ref num q", where parameters are       
     
-    (1) *geomone* is the genome dataset.
+    (1) geomone is the genome dataset.
     (2) ref is the reference sequence.
     (3) num is the number of sequences in geomone dataset. 
     (4) q is the length of context. 
@@ -28,4 +28,21 @@ sequences, with the former used to construct compression index. Besides enabling
     (3) num is the number of sequences in geomone. 
     (4) pattern is the query pattern. 
     (5) q is the length of context.    
+
+### 3. Extract query 
+  run the shell command: " ./FMQ geomone ref num position len q", where parameters are
+    
+    (1) geomone is the geomone dataset. 
+    (2) ref is the refernce sequence.
+    (3) num is the number of sequences in geomone dataset. 
+    (4) position is the start position of the extracted substring. 
+    (5) len is the length of the extracted substring. 
+    (6) q is the length of context. 
        
+## Contributors
+### code
+•	Xu Guo 
+### paper
+FMQ is an implementation of the paper.
+
+Hongwei Huo, Xu Guo, et al. FMQ: Efficient compression and indexing of highly-repeated DNA data sets.
