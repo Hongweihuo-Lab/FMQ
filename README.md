@@ -15,7 +15,7 @@ sequences, with the former used to construct compression index. Besides enabling
 #### 1. Index construction 
    run the shell command: "./FMQ geomone ref num q", where parameters are       
     
-    (1) geomone is the genome dataset.
+    (1) *geomone* is the genome dataset.
     (2) ref is the reference sequence.
     (3) num is the number of sequences in geomone dataset. 
     (4) q is the length of context. 
