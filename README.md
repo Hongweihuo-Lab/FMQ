@@ -29,7 +29,7 @@ sequences, with the former used to construct compression index. Besides enabling
     (4) pattern is the query pattern. 
     (5) q is the length of context.    
 
-### 3. Extract query 
+#### 3. Extract query 
   run the shell command: " ./FMQ geomone ref num position len q", where parameters are
     
     (1) geomone is the geomone dataset. 
