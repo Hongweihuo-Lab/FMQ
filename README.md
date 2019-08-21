@@ -45,4 +45,4 @@ sequences, with the former used to construct compression index. Besides enabling
 ### paper
 FMQ is an implementation of the paper.
 
-Hongwei Huo, Xu Guo, et al. FMQ: Efficient compression and indexing of highly-repeated DNA data sets.
+Hongwei Huo, Xiaoyang Chen, Xu Guo, and Jeffrey Scott Vitter, FMQ: Efficient compression and indexing for highly repetitive DNA sequence collections.
