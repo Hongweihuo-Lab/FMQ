@@ -41,7 +41,7 @@ sequences, with the former used to construct compression index. Besides enabling
        
 ## Contributors
 ### code
-•	Xu Guo 
+•	Xu Guo and Xiaoyang Chen 
 ### paper
 FMQ is an implementation of the paper.
 
