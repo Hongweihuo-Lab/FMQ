@@ -39,9 +39,6 @@ sequences, with the former used to construct compression index. Besides enabling
     (5) len is the length of the extracted substring. 
     (6) q is the length of context. 
        
-## Contributors
-### code
-•	Xu Guo and Xiaoyang Chen 
 ### paper
 FMQ is an implementation of the paper.
 
