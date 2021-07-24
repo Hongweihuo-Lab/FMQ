@@ -39,7 +39,7 @@ sequences, with the former used to construct compression index. Besides enabling
     (5) len is the length of the extracted substring. 
     (6) q is the length of context. 
        
-### paper
+## Paper
 FMQ is an implementation of the paper.
 
 Hongwei Huo, Xiaoyang Chen, Xu Guo, and Jeffrey Scott Vitter, FMQ: Efficient compression and indexing for highly repetitive DNA sequence collections, IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), 21 January, 2020. 
