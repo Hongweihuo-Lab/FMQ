@@ -40,4 +40,4 @@ sequences, with the former used to construct compression index. Besides enabling
     (6) q is the length of context. 
        
 ## Paper
-H. Huo, X. Chen, X. Guo, and J. S. Vitter, FMQ: Efficient compression and indexing for highly repetitive DNA sequence collections, IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), January 21, 2020, [PDF](https://doi.org/10.1109/TCBB.2020.2968323). 
+H. Huo, X. Chen, X. Guo, and J. S. Vitter, FMQ: Efficient compression and indexing for highly repetitive DNA sequence collections, IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), 18(6): 2394-2408, 2021, [PDF](https://doi.org/10.1109/TCBB.2020.2968323). 
